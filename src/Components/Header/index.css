@@ -1,0 +1,47 @@
+
+.header{
+    background-color: #d2d2d2;
+    color: #000;
+    padding: 10px;
+    display: flex;
+    height:5vh;
+    width: 100vw;
+    margin: justify;
+    align-items: center;
+
+  }
+.header h1{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    margin: justify;
+    justify-content: space-evenly;
+    width: 10%;
+    height: 46.3px;
+}
+.header > h1 > img{
+    width:50%;
+    display: flex;
+    align-items: center;
+  
+}
+.header .sidebar{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    margin: justify;
+    width: 7%;
+    margin-left: 10px;
+    height: 46.3px;
+
+}
+.header .search{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    margin: justify;
+    width: 60%;
+    margin-left: 10px;
+    height: 46.3px;
+}
